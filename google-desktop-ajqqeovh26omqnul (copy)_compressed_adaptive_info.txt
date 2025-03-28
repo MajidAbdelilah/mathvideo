@@ -1,0 +1,16 @@
+Image Compression Report
+======================
+
+Timestamp: 2025-03-28 05:30:53
+Algorithm: adaptive
+Similarity threshold: 0.85
+Adaptive mode: True
+
+Original dimensions: 192x108 = 20736 pixels
+Regions identified: 430
+Compression ratio: 48.22:1
+
+Processing time: 11.95 seconds
+Processing rate: 1735 pixels/second
+
+Output file size: 4.14 KB
